@@ -52,8 +52,7 @@ for i in range(n):
 
 ## Output:
 
-
-[sam.pdf](https://github.com/sameena77/Gaussian/files/15411603/sam.pdf)
+![jameena](https://github.com/sameena77/Gaussian/assets/155620541/8594f4e0-9927-426b-b8f3-61564d2b0c4e)
 
 
 ## Result:
